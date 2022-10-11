@@ -1,0 +1,17 @@
+{
+  "name": "cypress_vanilla",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "",
+  "scripts": {
+  },
+  "private": true,
+  "author": "Demo",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "typescript": "4.7.4"
+  }
+}
